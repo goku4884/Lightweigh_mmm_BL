@@ -1,0 +1,6 @@
+{"other_feautures":["corona_cases", "vaccine", "weighted_unit_price", "POS.Inventory",
+"HA_promo_COM_weighted"],
+"costs":["Paid_Search", "Paid_Social", "display_cost", "eml_COST"],
+"target":["POS.Net...Sold"],
+"media_data":["Paid_Search", "Paid_Social", "display_cost","eml_COST"]}
+  
